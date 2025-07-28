@@ -1,4 +1,4 @@
-print("Hello, World")
-
-def add(a,b):
-    return a+b
+a=float(input("enter number a"))
+b=float(input("enter number b"))
+subtraction=a-b
+print ("subtraction=",subtraction)
